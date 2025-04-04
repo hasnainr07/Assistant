@@ -1,0 +1,10 @@
+pyttsx3
+speechrecognition
+wikipedia
+pywhatkit
+opencv-python
+pyautogui
+flask
+flask_cors
+requests
+twilio
